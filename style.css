@@ -37,10 +37,12 @@ header {
 }
 
 .departures table th {
-    color: rgb(255, 234, 234);
+/*     color: rgb(255, 234, 234); */
+       color: rgb(0,0,0);
 }
 .departures table td {
     height: 50px;
+    color: rgb(0,0,0);
 }
 
 .departures table div {
